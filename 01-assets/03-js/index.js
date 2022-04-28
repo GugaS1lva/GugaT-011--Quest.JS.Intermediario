@@ -21,6 +21,6 @@ enviar.addEventListener('click', function(){
 // Lógida do Script:
 // Criar uma classe pra todos os inputs. [OK]
 // A prtir disso, criar um único array para eles [OK]
-// Percorrrer todo esse array verificando qual tá preenchido e qual não tá [OK]
-//quando preenchido, adiciona uma classe de borda verde [OK]
-//quando não preenchido, adiciona uma classe de borda vermelha + texto: 'campo obrigatório *' [OK]
+// Percorrrer esse array todo verificando qual tá preenchido e qual não tá [OK]
+// - Quando preenchido, adiciona uma classe de borda verde [OK]
+// - Quando não preenchido, adiciona uma classe de borda vermelha + texto: 'campo obrigatório *' [OK]
